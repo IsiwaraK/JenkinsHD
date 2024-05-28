@@ -1,6 +1,5 @@
 import React from "react";
 
-import Popular from "../popular/Popular";
 import Ppost from "../Ppost/Ppost";
 import "./style.css";
 
